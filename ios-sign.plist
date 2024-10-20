@@ -11,29 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://up.sosovp.com/download/2.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://cdn.xinstall.com/image/deff_icon.png</string>
+					<string>https://github.com/fluosix/kk-vv/blob/main/iOS_App_Resign.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>goldenShield2</string>
+				<string>com.dc.yhapp.rc</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.10.009</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>App Subtitle</string>
 				<key>title</key>
-				<string>金盾</string>
+				<string>易换</string>
 			</dict>
 		</dict>
 	</array>
